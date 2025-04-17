@@ -1,4 +1,4 @@
-# API Testing with Postman and Excel
+# API Testing using Postman
 
 This repository is dedicated to showcasing the process of testing an API using Postman and documenting the test cases in Excel format. The primary goal of this project was to run a set of API calls in Postman to analyze and check the responses, followed by organizing and recording the test cases in an Excel sheet for easier tracking and reference.
 
