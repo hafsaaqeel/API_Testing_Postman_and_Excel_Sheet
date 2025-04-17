@@ -16,7 +16,6 @@ The main purpose of this project is to demonstrate a simple, manual approach to 
 
 - Verifying the functionality of APIs.
 - Testing edge cases and expected responses.
-- Providing clear documentation for team members and stakeholders.
 
 ## Tools Used
 
