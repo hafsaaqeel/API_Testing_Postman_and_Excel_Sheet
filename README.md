@@ -21,7 +21,6 @@ The main purpose of this project is to demonstrate a simple, manual approach to 
 
 - **Postman**: Used to send requests to the API and check responses.
 - **Microsoft Excel**: Used to record test cases and results in an organized format.
-- **API Documentation**: Describes the structure of the API endpoints and the expected responses.
 
 ## Repository Structure
 
